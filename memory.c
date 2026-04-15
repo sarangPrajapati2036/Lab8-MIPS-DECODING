@@ -3,7 +3,7 @@
  ============================================================================
  Name        : Lab6.c
  Author      : Austin Tian
- Revised by  : Aditi Patel
+ Revised by  : 
  Version     : 1
  Copyright   : Copyright 2023
  Description : Lab 6 in C, ANSI-C Style
